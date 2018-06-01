@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/pause-amd64:3.0
+MAINTAINER Anthony <wy18300@163.com>
