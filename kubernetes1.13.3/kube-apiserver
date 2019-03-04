@@ -1,2 +1,5 @@
 FROM k8s.gcr.io/kube-apiserver:v1.13.4
 MAINTAINER Anthony <wy18300@163.com>
+
+FROM k8s.gcr.io/kube-controller-manager:v1.13.4
+MAINTAINER Anthony <wy18300@163.com>
