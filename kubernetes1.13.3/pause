@@ -1,0 +1,2 @@
+FROM k8s.gcr.io/pause:3.1
+MAINTAINER Anthony <wy18300@163.com>
